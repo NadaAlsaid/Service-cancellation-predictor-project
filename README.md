@@ -1,15 +1,21 @@
 # Service cancellation predictor 
 
-   Preprocessing
+Preprocessing
    
-   LDA for Feature Extraction 
+LDA for Feature Extraction 
    
-   Data scalling
+Data scalling
    
-   Logistics Regression algorithm 
-   SVM algorithm
-   Decision Tree algorithm ( ID3 ) 
-   Random Forest algorithm 
-   Navie Bayes algorithm 
-   KNN algorithm
-   Tkinter Library for GUI 
+Logistics Regression algorithm 
+   
+SVM algorithm
+   
+Decision Tree algorithm ( ID3 ) 
+   
+Random Forest algorithm 
+   
+Navie Bayes algorithm 
+   
+KNN algorithm
+   
+Tkinter Library for GUI 
