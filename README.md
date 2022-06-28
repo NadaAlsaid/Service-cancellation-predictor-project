@@ -22,7 +22,7 @@ Tkinter Library for GUI
  
 
 
-<div align="center"><img src="https://github.com/NadaAlsaid/NadaAlsaid/blob/main/wave.gif" width="30px" ></div>
+<div align="center"><img src="https://github.com/NadaAlsaid/Service-cancellation-predictor-project/blob/main/Screenshot%20(592).png" width="30px" ></div>
 
 
 <p align="center">
