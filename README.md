@@ -1,30 +1,29 @@
 <h1 align="center"> Service cancellation predictor  </h1>
 
-Preprocessing
+-Preprocessing
    
-LDA for Feature Extraction 
+-LDA for Feature Extraction 
    
-Data scalling
+-Data scalling
    
-Logistics Regression algorithm 
+-Logistics Regression algorithm 
    
-SVM algorithm
+-SVM algorithm
    
-Decision Tree algorithm ( ID3 ) 
+-Decision Tree algorithm ( ID3 ) 
    
-Random Forest algorithm 
+-Random Forest algorithm 
    
-Navie Bayes algorithm 
+-Navie Bayes algorithm 
    
-KNN algorithm
+-KNN algorithm
    
-Tkinter Library for GUI 
+-Tkinter Library for GUI 
  
 
 
 <div align="center"><img src="https://github.com/NadaAlsaid/Service-cancellation-predictor-project/blob/main/Screenshot%20(592).png" width="900px" ></div>
-
-<div align="center"><img src="https://github.com/NadaAlsaid/Service-cancellation-predictor-project/blob/main/Screenshot%20(594).png" width="900px" ></div>
+<div align="center"><img src="https://github.com/NadaAlsaid/Service-cancellation-predictor-project/blob/main/Screenshot%20(593).png" width="900px" ></div>
 
 <div align="center"><img src="https://github.com/NadaAlsaid/Service-cancellation-predictor-project/blob/main/Screenshot%20(595).png" width="900px" ></div>
 
