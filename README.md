@@ -1,24 +1,24 @@
 <h1 align="center"> Service cancellation predictor  </h1>
-
-<i>Preprocessing</i>
+<i>
+<li>Preprocessing</li>
    
-<i>LDA for Feature Extraction </i>
+<li>LDA for Feature Extraction </li>
    
-<i>Data scalling</i>
+<li>Data scalling</li>
    
-<i>Logistics Regression algorithm </i>
+<li>Logistics Regression algorithm </li>
    
-<i>SVM algorithm</i>
+<li>SVM algorithm</li>
    
-<i>Decision Tree algorithm ( ID3 ) </i>
+<li>Decision Tree algorithm ( ID3 ) </li>
    
-<i>Random Forest algorithm </i>
+<li>Random Forest algorithm </li>
    
-<i>Navie Bayes algorithm </i>
+<li>Navie Bayes algorithm </li>
    
-<i>KNN algorithm
+<li>KNN algorithm</li> 
    
-<ol>Tkinter Library for GUI </ol> 
+<li>Tkinter Library for GUI </li> 
  </i>
  
 
