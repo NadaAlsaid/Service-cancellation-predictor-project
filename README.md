@@ -16,9 +16,10 @@
    
 <i>Navie Bayes algorithm </i>
    
-<i>KNN algorithm</i>
+<i>KNN algorithm
    
-<i>Tkinter Library for GUI </i>
+<ol>Tkinter Library for GUI </ol> 
+ </i>
  
 
 
