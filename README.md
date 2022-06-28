@@ -23,9 +23,12 @@ Tkinter Library for GUI
 
 
 <div align="center"><img src="https://github.com/NadaAlsaid/Service-cancellation-predictor-project/blob/main/Screenshot%20(592).png" width="900px" ></div>
+<div align="center"><img src="https://github.com/NadaAlsaid/Service-cancellation-predictor-project/blob/main/Screenshot%20(593).png" width="900px" ></div>
 
+<div align="center"><img src="https://github.com/NadaAlsaid/Service-cancellation-predictor-project/blob/main/Screenshot%20(594).png" width="900px" ></div>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NadaAlsaid&show_icons=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadaAlsaid&count_private=true&theme=dracula">
- </p>
+<div align="center"><img src="https://github.com/NadaAlsaid/Service-cancellation-predictor-project/blob/main/Screenshot%20(595).png" width="900px" ></div>
+
+<div align="center"><img src="https://github.com/NadaAlsaid/Service-cancellation-predictor-project/blob/main/Screenshot%20(596).png" width="900px" ></div>
+
+<div align="center"><img src="https://github.com/NadaAlsaid/Service-cancellation-predictor-project/blob/main/Screenshot%20(597).png" width="900px" ></div>
