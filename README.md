@@ -20,14 +20,16 @@
    
 <li>Tkinter Library for GUI </li> 
  </i>
+ 
 
-<div align="center"><img src="C:/Users/Nada Said/Pictures/Screenshots/Screenshot%20(592).png" width="900px" ></div>
-<div align="center"><img src="C:/Users/Nada Said/Pictures/Screenshots/Screenshot%20(593).png" width="900px" ></div>
 
-<div align="center"><img src="C:/Users/Nada Said/Pictures/Screenshots/Screenshot%20(594).png" width="900px" ></div>
+<div align="center"><img src="https://github.com/NadaAlsaid/hidden-files/blob/main/Screenshot%20(592).png" width="900px" ></div>
+<div align="center"><img src="https://github.com/NadaAlsaid/hidden-files/blob/main/Screenshot%20(593).png" width="900px" ></div>
 
-<div align="center"><img src="C:/Users/Nada Said/Pictures/Screenshots/Screenshot%20(596).png" width="900px" ></div>
+<div align="center"><img src="tps://github.com/NadaAlsaid/hidden-files/blob/main/htScreenshot%20(594).png" width="900px" ></div>
 
-<div align="center"><img src="C:/Users/Nada Said/Pictures/Screenshots/Screenshot%20(597).png" width="900px" ></div>
-<div align="center"><img src="C:/Users/Nada Said/Pictures/Screenshots/Screenshot%20(598).png" width="900px" ></div>
-<div align="center"><img src="C:/Users/Nada Said/Pictures/Screenshots/Screenshot%20(599).png" width="900px" ></div>
+<div align="center"><img src="https://github.com/NadaAlsaid/hidden-files/blob/main/Screenshot%20(596).png" width="900px" ></div>
+
+<div align="center"><img src="https://github.com/NadaAlsaid/hidden-files/blob/main/Screenshot%20(597).png" width="900px" ></div>
+<div align="center"><img src="https://github.com/NadaAlsaid/hidden-files/blob/main/Screenshot%20(598).png" width="900px" ></div>
+<div align="center"><img src="https://github.com/NadaAlsaid/hidden-files/blob/main/Screenshot%20(599).png" width="900px" ></div>
